@@ -1,0 +1,647 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods lift-up hand for Lancashire, presented in a sermon preached before the honorable committee of the county at Lancashire. Upon the 18th of December 1645. Being a solemne day of thankesgiving to God for clearing of the country, in subduing the enemies thereof. / By Nehemiah Barnet, minister at Lancaster.</title>
+            <author>Barnett, Nehemiah, b. 1614 or 15.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78179</idno>
+            <idno type="STC">Wing B874</idno>
+            <idno type="STC">Thomason E1165_2</idno>
+            <idno type="STC">ESTC R210100</idno>
+            <idno type="EEBO-CITATION">99868929</idno>
+            <idno type="PROQUEST">99868929</idno>
+            <idno type="VID">121286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121286)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 251:E1165[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods lift-up hand for Lancashire, presented in a sermon preached before the honorable committee of the county at Lancashire. Upon the 18th of December 1645. Being a solemne day of thankesgiving to God for clearing of the country, in subduing the enemies thereof. / By Nehemiah Barnet, minister at Lancaster.</title>
+                  <author>Barnett, Nehemiah, b. 1614 or 15.</author>
+               </titleStmt>
+               <extent>[14], 47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Wilson, for John Williams, and are to be sold at the Crown in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+               <term>Lancashire (England) --  History --  17th century --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121286:1" rendition="simple:additions"/>
+            <p>GODS Lift-up Hand FOR <hi>Lancaſhire,</hi> Preſented in a Sermon Preached before the Ho<g ref="char:EOLhyphen"/>norable Committee of the County at <hi>Lancaſter.</hi>
+            </p>
+            <p>Upon the 18<hi rend="sup">th</hi> of <hi>December</hi> 1645. Being a Solemne day of Thankeſgi<g ref="char:EOLhyphen"/>ving to God for clearing of the County, in ſubduing the enemies thereof.</p>
+            <p>By NEHEMIAH BARNET, Miniſter at <hi>Lancaſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by W. WILSON, for JOHN WILLIAMS, and are to be ſold at the <hi>Crown</hi> in <hi>Pauls Church<g ref="char:EOLhyphen"/>yard.</hi> 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:121286:2"/>
+            <pb facs="tcp:121286:2"/>
+            <head>To the Worſhipfull, M<hi rend="sup">r</hi>. <hi>Major,</hi> The Baylifs and Burgeſſes of the Towne of <hi>Lancaſter, N. B.</hi> deſireth their ſanctification on earth, and glorification in Heaven.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y thoughts have beene long perplexed to find out ſome way or other whereby I might re<g ref="char:EOLhyphen"/>turne ſome acknowledgement of the many expreſsions of love, and underſerved favours, which I have received from you; I dare not deny, but I am deeper <hi>indebted</hi>
+               <pb facs="tcp:121286:3"/>to you; then to any people under Heaven, and the <hi>debt</hi> I owe to you is above my ability, not wil<g ref="char:EOLhyphen"/>lingneſs, to pay; I here tender you <hi>earneſt,</hi> let your goodneſs pleaſe to accept of this in <hi>part,</hi> (if it may bee in good part) till the whole comes.</p>
+            <p>I offer herein ſome of my <hi>firſt fruits</hi> unto you, and doe earneſtly deſire you would accept them, and wiſh them ſafe protection, for I dedicate not onely them, but my ſelfe unto you, neceſsitated there<g ref="char:EOLhyphen"/>unto by an obliged duty of thank<g ref="char:EOLhyphen"/>fulnes; and receive them as from one that unfeignedly deſires the ſalvation of your ſoules.</p>
+            <p>In the preaching of this Sermon you might perceive, I did not ſeek ſo much to pleaſe, as to profit, not to informe the judgement, as to worke on the affections; but till
+<pb facs="tcp:121286:3"/>God bleſsed it in both, I never purpoſed it ſhould have been broa<g ref="char:EOLhyphen"/>ched abroad, becauſe it might ſeeme as a candle lighted at noone day; it found ſuch approbation, that it was thought fit that it ſhould not bee confined within the narrow limits of a Pariſh; but that it ſhould bee communicated to o<g ref="char:EOLhyphen"/>thers, by theſe ſilent ſpeaking cha<g ref="char:EOLhyphen"/>racters.</p>
+            <p>It is a true ſaying, that <hi>Prin<g ref="char:EOLhyphen"/>ting</hi> is a kind of Preaching, though not ſo<note n="*" place="margin">Solet ac<g ref="char:EOLhyphen"/>ceptior eſſe ſermo vi<g ref="char:EOLhyphen"/>vus quam ſcriptus. <hi>Bern.</hi>
+               </note> plauſible and prevalent to perſwade, yet it is of larger ex<g ref="char:EOLhyphen"/>tent (ſeeing a man may Preach to more by his pen then his tongue, and bee farther heard out of the Preſse, then the Pulpit) for a dead man may live in his bookes, and by them preach to the living, though unborne, when he dieth. I would accompt it a double happi<g ref="char:EOLhyphen"/>neſs
+<pb facs="tcp:121286:4"/>if I could doe good both wayes.</p>
+            <p>I am ſenſible of the <hi>curioſity</hi> of the times, and of my owne <hi>inſuf<g ref="char:EOLhyphen"/>ficiency,</hi> thoſe ſmall abilities God hath given me to profit others, are rather in the Pulpit, then the Preſse: yet for the benefit of ſlee<g ref="char:EOLhyphen"/>py and ſecure Malignants in the North (whereof ſome received ſome <hi>light</hi> from this poore talent of mine) therefore it is come to <hi>light,</hi> and for a light; that they may ſee how farre in the day it is, that it is time for blind beleevers to awake, and behold God every day by his <hi>lift-up hand,</hi> putting mat<g ref="char:EOLhyphen"/>ter of thanksgiving both in our hands and hearts. It is a part of my prayer that God would winde up our hearts to the right tune of <hi>Hallelujahs,</hi> and that the reſt may have as much cauſe of prayſing the
+<pb facs="tcp:121286:4"/>the Lord of Hoaſt as the North hath had, that ſo God might per<g ref="char:EOLhyphen"/>fect his owne worke of reformati<g ref="char:EOLhyphen"/>on, and put a period to our warres and depopulations.</p>
+            <p>You know too well, how ſad and deplorable was the Condi<g ref="char:EOLhyphen"/>tion of this ancient Corpora<g ref="char:EOLhyphen"/>tion, when the common and cru<g ref="char:EOLhyphen"/>ell enemie had plundred your houſes, and loaden themſelves with your Wealth, which (with much Labour and Sweat) all your life time you had beene ga<g ref="char:EOLhyphen"/>thering for you, and your poſte<g ref="char:EOLhyphen"/>rity, and wanting light to ſteale away what they had poſseſt themſelves of, therefore their ma<g ref="char:EOLhyphen"/>lice ſet on fire your habitations, &amp; brought many of them to aſhes.</p>
+            <p>When your Caſtle was left careleſsely by Commanders, that had it not been for <hi>Gods lift-up
+<pb facs="tcp:121286:5"/>Hand,</hi> that which was left un<g ref="char:EOLhyphen"/>burnt, had beene at their com<g ref="char:EOLhyphen"/>mand, and your ſelves Slaves to thoſe bloudy <hi>Towne-Burning Adverſaries.</hi> Then you became the ſubject of many prayers, and object of many teares, ſo that you might have ſaid with Saint <hi>Paul,</hi>
+               <note place="margin">2 Cor. 1.8, 9, 10, 11.</note> 
+               <hi>Wee were preſ<g ref="char:EOLhyphen"/>ſed out of meaſure, above ſtrength, inſomuch that wee deſpaired, even of Life: but wee had the ſentence of Death in our ſelves, that wee ſhould not truſt in our ſelves, but in GOD which raiſeth the dead, who delivered us from ſo great a death, and doth deliver: in whom wee truſt that hee will yet deliver us. Yea, alſo hel<g ref="char:EOLhyphen"/>ping together by Prayer for us, that for the gift beſtowed upon us, by the means of ma<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:121286:5"/>perſons, thanks may bee given by many on our be<g ref="char:EOLhyphen"/>halfe.</hi>
+            </p>
+            <p>Hath God raiſed you out of this wofull condition, and doe <hi>your dead bones live?</hi> Let then the language of your praiſes bee that of <hi>DAVIDS, Pſalme 18.46, 47, 48, 49. The Lord liveth, and bleſſed be my rock; and let the God of my ſalvati<g ref="char:EOLhyphen"/>on bee exalted: It is GOD that avengeth mee, and ſub<g ref="char:EOLhyphen"/>dueth the people under mee; hee delivereth mee from my e<g ref="char:EOLhyphen"/>nemies, yea thou lifteſt mee up, above thoſe that riſe up againſt mee: thou haſt deli<g ref="char:EOLhyphen"/>vered mee from the violent man. Therefore will I give thanks unto thee, O Lord, a<g ref="char:EOLhyphen"/>mong the Heathen; and ſing praiſes unto thy Name,</hi>
+               <note n="*" place="margin">Pſal. 62.18, 19.</note> 
+               <hi>and
+<pb facs="tcp:121286:6"/>bleſſed be the Lord God of Iſ<g ref="char:EOLhyphen"/>rael, who onely doth wonderous things.</hi>
+            </p>
+            <p>What miſery did formerly befall the <hi>Towne,</hi> by the <hi>lift-up Hand of GODS Juſtice,</hi> was for ſinne; And now <hi>GOD</hi> ſeemes to ſmile upon you, and is willing to be reconcil'd with you; never returne againe to your former folly; for new-provoking Tranſgreſsions, or old, unrepented of, will pro<g ref="char:EOLhyphen"/>cure new depopulations. There<g ref="char:EOLhyphen"/>fore <hi>ſinne no more, leſt a worſe thing come unto you.</hi> Sinne is the ruine of a <hi>Town,</hi> nay of a <hi>Kingdome;</hi> and if that our <hi>Enemies</hi> did at a<g ref="char:EOLhyphen"/>ny time ruinate our eſtates, we may thank our ſelves.</p>
+            <p>Sinne is like a Traitor in our boſomes, that will open the
+<pb facs="tcp:121286:6"/>gates of the ſtrongeſt Caſtle to the enemy.</p>
+            <p>Sinne weakens the hands, and makes them unapt to fight; it was not the ſtrength of <hi>AI</hi> that overcame the <hi>Iſraelites,</hi> but <hi>ACHANS</hi> ſinne: The ſins of <hi>LANCASTER,</hi> were the enemies of <hi>LANCASTER;</hi> theſe curſed <hi>CANAANITES</hi> are alwayes riſing up againſt us: but it muſt bee our Re<g ref="char:EOLhyphen"/>pentance that muſt repaire our Ruines, and bee our future Fortreſs, in the dayes of dan<g ref="char:EOLhyphen"/>gers: The <hi>LORD</hi> in mercy deſtroy our ſinnes, and not our Townes, leaſt our unre<g ref="char:EOLhyphen"/>pented ſinnes force him to fire the remainder of our houſes, to fire us out of our <hi>Formalities,</hi> and manifold iniquities. Let us not provoke <hi>GOD</hi> any
+<pb facs="tcp:121286:7"/>more, leſt the next blow bee the laſt blow, and the everla<g ref="char:EOLhyphen"/>ſting deſtruction of us. I con<g ref="char:EOLhyphen"/>feſse the courſe you have lately taken in Reforming the Sab<g ref="char:EOLhyphen"/>bath, hath wrought much good, and the executing <hi>Juſtice</hi> on prophane ſinners, hath been a good work, and may prove the onely meanes to turne away the wrath of God from us (which was increaſed by drunkenneſs, and prophaneneſs.)</p>
+            <p>I beſeech you goe on in the worke and way you have begun with courage and conſtancy, and be aſsured the <hi>LORD</hi> is with you, while you are with him: Your joyning the ſword of your power to the word of your Mi<g ref="char:EOLhyphen"/>niſter, is the high-way to a bleſ<g ref="char:EOLhyphen"/>ſing; your prudent perſeverance in the worke ſo well begun,
+<pb facs="tcp:121286:7"/>will procure many praiſes to <hi>GOD,</hi> many prayers for you, and much joy in the hearts of all them who ſincerely affect you: Of which number you may reckon him who is</p>
+            <closer>
+               <signed>Your moſt humble Servant, for the good of your ſoules, NEHE. BARNET.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:121286:8"/>
+            <pb n="1" facs="tcp:121286:8"/>
+            <head>Gods lift up Hand for <hi>LANCASHIRE.</hi> OR, A Sermon Preached upon the day of Thanksgiving, for the clearing of that Coun<g ref="char:EOLhyphen"/>ty in ſubduing the Ene<g ref="char:EOLhyphen"/>mies thereof.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ISAIAH. 26.11.</hi>
+                  </bibl>
+                  <p>Lord when thy hand is lifted up they will not ſee: but they ſhall ſee and be aſha<g ref="char:EOLhyphen"/>med: for their envie at the people, the fire of thine enemies ſhall devoure them.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>F you pleaſe at your leaſure to look back into this <hi>Pro<g ref="char:EOLhyphen"/>pheſie,</hi> you ſhall finde the promiſes that God hath made to his Church turned into the
+<pb n="2" facs="tcp:121286:9"/>Churches Prayers, and the prayers of the Church bring forth many paſſa<g ref="char:EOLhyphen"/>ges of Gods providence, and the paſ<g ref="char:EOLhyphen"/>ſages of Gods providence to his Church and People, winde up their hearts to the true tune of prayſes.</p>
+            <p>The experience of Gods Provi<g ref="char:EOLhyphen"/>dences hath ever provoked Primitive Chriſtians to Gods praiſes.</p>
+            <p>When Iſrael had croſſed the Red-ſeas with dry feet, and the returning waters had drowned the purſuing e<g ref="char:EOLhyphen"/>nemies, <hi>Moſes</hi> and the people ſang a Song of triumph, and ſpake ſaying, <hi>I will ſing unto the Lord,</hi>
+               <note place="margin">Exod. 15. V. 1.</note> 
+               <hi>for he hath trium<g ref="char:EOLhyphen"/>phed gloriouſly, the horſe and his rider hath he throwne into the Sea.</hi>
+               <note place="margin">V. 2.</note> 
+               <hi>The Lord is my ſtrength and ſong, and he is become my ſalvation: hee is my God, and I will prepare him a habitation; my fathers God, and I will exalt him.</hi>
+               <note place="margin">V. 3.</note> 
+               <hi>The Lord is a man of war: The Lord is his Name.</hi>
+            </p>
+            <p>When <hi>Deborah</hi> had conquered <hi>Siſe<g ref="char:EOLhyphen"/>ra,</hi>
+               <note place="margin">Judges 5.</note> with his 900 Chariots of Iron, whereby the Land had reſt forty yeares, ſhe ſang this rejoycing Song to the Lord.</p>
+            <p>
+               <hi>Praiſe yee the Lord,</hi>
+               <note place="margin">V. 2</note> 
+               <hi>for avenging of
+<pb n="3" facs="tcp:121286:9"/>Iſrael; when the people willingly offered themſelves.</hi>
+            </p>
+            <p>
+               <hi>Heare, oh yee Kings,</hi>
+               <note place="margin">V. 2.</note> 
+               <hi>give eare oh yee Princes: I, even I, will ſing unto the Lord, I will ſing praiſes to the Lord God of Iſrael.</hi>
+            </p>
+            <p>When God reſtored <hi>Judah</hi> back a<g ref="char:EOLhyphen"/>gaine out of Captivity; this Chap<g ref="char:EOLhyphen"/>ter was their ſong of triumph, where<g ref="char:EOLhyphen"/>in three things are obſerveable.</p>
+            <p>Firſt, the place where it was ſung,<note place="margin">V. 1.</note> 
+               <hi>In that day ſhall this Song be ſung in the Land of Judah.</hi>
+            </p>
+            <p>Secondly, the perſons rightly fit<g ref="char:EOLhyphen"/>ted and qualified for the ſinging of this joyfull Song, ſet downe in this Chapter by foure Qualifications.</p>
+            <list>
+               <item>1. <hi>They are a righteous Nation,</hi>
+                  <note place="margin">V. 2.</note> 
+                  <hi>which keep the truth,</hi> v. 2.</item>
+               <item>2. <hi>They are ſuch whoſe minde is ſtaid on God, becauſe they truſt in God.</hi>
+                  <note place="margin">V. 3.</note> v. 3.</item>
+               <item>3. <hi>They are ſuch who wait for God,</hi>
+                  <note place="margin">V. 8.</note> 
+                  <hi>and the deſire of their ſouls is to his name.</hi> v. 8.</item>
+               <item>4. They are ſuch who <hi>ſeek God ear<g ref="char:EOLhyphen"/>ly,</hi>
+                  <note place="margin">V. 9.</note> 
+                  <hi>with ſoule and ſpirit.</hi> v. 9.</item>
+            </list>
+            <p>Theſe are the perſons rightly qualified for ſinging of this ſong.</p>
+            <pb n="4" facs="tcp:121286:10"/>
+            <p> Thirdly, the provoking and inci<g ref="char:EOLhyphen"/>ting cauſes, for ſinging of this Song, are theſe amongſt many.</p>
+            <list>
+               <item>1. Becauſe <hi>they had a ſtrong Ci<g ref="char:EOLhyphen"/>ty, ſalvation had God appointed for Wals, and Bulwarks for them.</hi> v. 1.</item>
+               <item>2. Becauſe in <hi>the Lord Jehovah they had everlaſting ſtrength.</hi> v. 4.</item>
+               <item>3. Becauſe <hi>hee bringeth them downe that dwell on high, the lofty City he layeth it low, even to the ground.</hi> v. 5.</item>
+               <item>4. Becauſe <hi>he will ordaine peace for his people, &amp; hath wrought all their works on them.</hi> v. 12.</item>
+            </list>
+            <p>But I need not go beyond my Text to ſeek for reaſons why <hi>Judah</hi> doth ſing this Song. For,</p>
+            <p>When Gods hand is lifted up in a way of mercy for a people and in a way of Juſtice upon their enemies, and makes them aſhamed that envies them, and deſtroyes them with the fire of his enemies that riſeth up againſt them, then you cannot but grant that there is good ground for ſinging joy<g ref="char:EOLhyphen"/>full Songs of praiſes.</p>
+            <p>So that from the courſe that Gods people here took when they were de<g ref="char:EOLhyphen"/>livered
+<pb n="5" facs="tcp:121286:10"/>out of Captivity, we might by the way draw this Doctrine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> That the experience of Gods mer<g ref="char:EOLhyphen"/>cies in delivering his people calls for their praiſes to God.</p>
+            <p>It's <hi>Davids</hi> argument which he u<g ref="char:EOLhyphen"/>ſeth to ſtirre up himſelfe and others to extoll and bleſſe and praiſe his God, becauſe the <hi>Lord is good to all, and his tender mercies are over all his workes.</hi> Pſal. 145.8.</p>
+            <p>The Pſalmiſt exhorteth the redee<g ref="char:EOLhyphen"/>med in praiſing God to obſerve his manifold providence, <hi>Pſal.</hi> 107.1, 2. <hi>O give thanks unto the Lord, for hee is good: for his mercy endureth for ever: Let the redeemed of the Lord ſay ſo, whom he hath redeemed from the hand of the ene<g ref="char:EOLhyphen"/>my.</hi> Which is the onely argument why we ſhould praiſe him, becauſe he hath redeemed us out of the hands of our enemies, by two Demonſtrations. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label>
+            </p>
+            <list>
+               <item>1. By diſappointing their plots.</item>
+               <item>2. By weakning their power.</item>
+            </list>
+            <p>Firſt, by diſappointing their plots and purpoſes, while the wicked ſet their wits to deviſe, and their bo<g ref="char:EOLhyphen"/>dies to execute miſchiefe, with all the
+<pb n="6" facs="tcp:121286:11"/>art and craft they can. While the wic<g ref="char:EOLhyphen"/>ked are contriving iniquity on their beds, and when the morning is light they purpoſe to practiſe it. Behold, while they travaile with this their iniquity,<note place="margin">Mich. 2.1</note> and have conceiv'd their miſchiefe, God blaſts it, and it proves abortive; <hi>They bring forth nothing but a Lye.</hi>
+               <note place="margin">Pſal. 7.14.</note>
+            </p>
+            <p>A Lye in regard of expectation.</p>
+            <p>A Lye in regard of intention. For the miſchiefe they intended for o<g ref="char:EOLhyphen"/>thers, falls on their owne heads. For God delights <hi>to catch them in the ima<g ref="char:EOLhyphen"/>gination of their owne hearts, and pay them in their owne coine.</hi>
+            </p>
+            <p n="1">1. God doth this that hee might not loſe the glory of any of his At<g ref="char:EOLhyphen"/>tributes, hee will make them know, that hee is a God onely wiſe, and knowes how to diſappoint the plots of the enemies.</p>
+            <p n="2">2. In regard of the enemies, whoſe fierceneſſe turnes to Gods praiſes in diſappointing their plots, he lets them know that there is a God that ruleth the earth.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> his mercies are ſeen in
+<pb n="7" facs="tcp:121286:11"/>breaking the power and ſtrength of the enemies; <hi>By the blaſt of God they pe<g ref="char:EOLhyphen"/>riſh;</hi>
+               <note place="margin">Job 4.9.</note> 
+               <hi>and by the breath of his Noſtrils are they conſumed:</hi> therefore with confi<g ref="char:EOLhyphen"/>dence <hi>David</hi> ſaith; <hi>for lo thy enemies,</hi>
+               <note place="margin">Pſal. 92.9.</note> 
+               <hi>ô Lord, for lo thy enemies ſhall periſh, all the workers of iniquity ſhall be ſcattered.</hi>
+            </p>
+            <p>
+               <hi>When the Lord our God ſhall ſend the rod of his ſtrength out of Sion,</hi>
+               <note place="margin">Pſa. 111.2</note> 
+               <hi>and rule in the midſt of our enemies,</hi> then there is cauſe of loud praiſes to God for this his mercy.</p>
+            <p>When God expreſſeth his mercies to a people in ſuppreſſing the power and pride of their enemies, this calls for loud praiſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> To reprove theſe whoſe eyes are fill'd with envy, at the proſperitie and proceedings of Gods goodneſſe to his people; ſuch a ſpirit were <hi>San<g ref="char:EOLhyphen"/>ballat</hi> and <hi>Tobiah</hi> of, who were excce<g ref="char:EOLhyphen"/>dingly grieved, becauſe God out of re<g ref="char:EOLhyphen"/>ſpect to the proſperity of his Church, had ſtirr'd up <hi>Nehemiah</hi> and others to be repairers of her breaches. that</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> To reprove thoſe likewiſe man are the worſe for Gods mercies, ife<g ref="char:EOLhyphen"/>ſted to them in particular, or the
+<pb n="8" facs="tcp:121286:12"/>whole Church in generall, it is a grie<g ref="char:EOLhyphen"/>vous thing that the more mercifull God is to us, the more undutifull and unthankfull wee are to him; never was more mercies requited with leſſe pity, leſſe obedience, leſſe practicall praiſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>3</label> Let every one who hath taſted of Gods goodneſſe, (and what man is there which hath not?) who is parta<g ref="char:EOLhyphen"/>ker of deliverances, and ſees what great things God hath done for us, ſing joyfull praiſes to him for it, and let this praiſing him be not with our lips only, but eſpecially with our lives Now that you might be fit perſons to ſing ſongs of praiſes, &amp; utter joyfull <hi>Hallelujah's</hi> to the <hi>Lord</hi> for his delive<g ref="char:EOLhyphen"/>rances, you muſt have theſe qualifica<g ref="char:EOLhyphen"/>tions following.</p>
+            <p>Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> we muſt become ſpirituall, and therefore we are admoniſhed by the Apoſtle <hi>Paul, to bee filled with the Spirit,</hi>
+               <note place="margin">Epheſ. 5.18, 19, 20.</note> 
+               <hi>if wee will make melody in our hearts to the Lord.</hi>
+            </p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> we muſt become penitent, we cannot rightly praiſe him, till we are reſtored by repentance: <hi>David</hi> after
+<pb n="9" facs="tcp:121286:12"/>he had fallen into thoſe foure groſſe ſinnes, which hee calls preſumptuous ſinnes, hee preſſeth God with argu<g ref="char:EOLhyphen"/>ments to give him <hi>repentance that his mouth may be opened to praiſe him.</hi> Pſal. 51.12, 13.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, we muſt become juſt men, upright men, ſuch that walk upright<g ref="char:EOLhyphen"/>ly in their converſations, that walk as in Gods preſence, all their actions to God, to man, are done as in the pre<g ref="char:EOLhyphen"/>ſence of the pure and piercing eyes of the Almighty. Therefore <hi>David</hi> with confidence ſayes, <hi>Surely the righ<g ref="char:EOLhyphen"/>teous ſhall give thanks unto thy Name: the upright ſhall dwell in thy preſence,</hi> Pſalme 140.13.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Wee muſt become Covenant-kee<g ref="char:EOLhyphen"/>pers; thoſe religious Vowes which we have made to God in times of trou<g ref="char:EOLhyphen"/>bles, and dayes of dangers, muſt be performed: <hi>Offer to God thanks-giving, and pay thy vowes to the moſt High,</hi>
+               <note place="margin">Pſal. 65.1.</note> Pſal. 50.14.</p>
+            <p>Thoſe that are adorned with theſe properties may be fit perſons for the performance of this dayes duty.</p>
+            <p>But I feare I have held you too
+<pb n="10" facs="tcp:121286:13"/>long in the Suburbs of this my unleſſe I could promiſe you the ſight of a better City, ſuch that were of curious building, and at unity in it ſelfe, at leaſt look upon it, enter into it, and God grant it may enter into all our hearts.</p>
+            <p>My Text is a ſtraine of <hi>Judah's</hi> joyfull Song for Gods bringing them backe from Captivity, and wee may ſeaſonably make it this day ours; if we apply the next Verſe to the Text,<note place="margin">V. 12.</note> to our times. For, <hi>the Lord hath ordai<g ref="char:EOLhyphen"/>ned peace for us, and hath wrought all our works in us.</hi> Therefore my deſires are, that the God of heaven would give me a tongue of praiſe, and thankſgi<g ref="char:EOLhyphen"/>ving to ſing this ſtraine to you; and you hearing ears to underſtand it, and all of us thankfull hearts to em<g ref="char:EOLhyphen"/>brace it.</p>
+            <p>I pray God my Sermon may be as profitable as it is ſeaſonable.</p>
+            <p>My Text ſeems to bee a complaint of the Prophet againſt a blinde, ſha<g ref="char:EOLhyphen"/>med and envious enemy, who till the fire of Gods wrath bee deſtroying them, will not ſee Gods hand lifted up againſt them.</p>
+            <pb n="11" facs="tcp:121286:13"/>
+            <p> 
+               <hi>Lord when thy hand is lifted up, they will not ſee; but they ſhall ſee, and be a<g ref="char:EOLhyphen"/>ſhamed, for the envie of the people; yea, the fire of the enemies ſhall devoure them.</hi>
+            </p>
+            <p>The ſenſe, and ſumme, of my Text is this, among many Expoſitors, I take this to be the trueſt:</p>
+            <p>
+               <hi>Ad percutiendos impios elevare ſe<g ref="char:EOLhyphen"/>creto,</hi>
+               <note place="margin">Oleaſter.</note> 
+               <hi>ne ipſi eam videant niſi cum per<g ref="char:EOLhyphen"/>cutiuntur.</hi>
+               <note place="margin">Eſa. 6.16.</note>
+            </p>
+            <p>
+               <hi>Gods hand lifted up</hi> to ſmite the wicked ſecretly, and they perceive it not till Gods hand is on them, till they feele the very ſmart of it.</p>
+            <p>
+               <hi>Aut excelſa eſt manus tua ad elevandos tuos, ſeu ad benefaciendum illis, ſea melius ad eos liberandos, non videbunt eam nunc inimici eorum, ſed poſtea videbunt eos liberatos, &amp; invidebunt illis, quia non ſolum eos eripies,</hi>
+               <note place="margin">Eſa. 66.5.</note> 
+               <hi>ſed inimicos conſu<g ref="char:EOLhyphen"/>mes.</hi> Oleaſter.</p>
+            <p>The ſcope of the Prophet is this, Lord thy hand hath been lifted up in much mercy to thy people, in beſtow<g ref="char:EOLhyphen"/>ing many benefits on them in ſaving and delivering them. Thy hand hath been lifted up in juſtice upon thy e<g ref="char:EOLhyphen"/>nemies, but they will not ſee, <hi>i.e.</hi> thy
+<pb n="12" facs="tcp:121286:14"/>hand of reſcue, thy hand of revenge, thy hand of vengeance on them, they doe not take notice that it is thy hand, but they ſhall ſee the ſucceſſe of thy lift-up hand, they ſhall ſee the hand of thy mercy towards thy peo<g ref="char:EOLhyphen"/>ple, they ſhall ſee the hand of thy Ju<g ref="char:EOLhyphen"/>ſtice towards themſelves, and be aſha<g ref="char:EOLhyphen"/>med when they ſhall perceive thy hand hath fruſtrated their hopes, and hath turned all their deſignes to nought, they ſhall be aſhamed for the envy, the malice and bitterneſſe they have expreſt in word and deed againſt any people, yea the fire of thine ene<g ref="char:EOLhyphen"/>mies ſhall devoure them.</p>
+            <p n="1">1. There's a fire of Gods indigna<g ref="char:EOLhyphen"/>tion upon his people, but this is a try<g ref="char:EOLhyphen"/>ing fire, and not a conſuming fire; this is a purging fire, and not a de<g ref="char:EOLhyphen"/>ſtroying fire; this is to purge <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> with the ſpirit of Burning, <hi>Eſa.</hi> 4.4.</p>
+            <p n="2">2. There's a fire of GOD from HEAVEN which conſumes them, which falls upon the VVicked as upon a Company of Enemies, and this hee calls the fire of his
+<pb n="13" facs="tcp:121286:14"/>enemies; with this he devoures them up as Stubble, and Briars, and Thornes. This ſeemes to be the mea<g ref="char:EOLhyphen"/>ning of the words; from which wee may gather theſe three naturall Do<g ref="char:EOLhyphen"/>ctrines.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> 
+               <hi>That there is a time when the Lords hand is lifted up.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <hi>That when the Lords hand is lifted up, there are ſome that will not ſee it.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> 
+               <hi>That thoſe that will not ſee Gods hand lifted up at firſt, ſhall feele it at laſt, with ſhame and confuſion; for the fire of thine enemies ſhall devoure them.</hi>
+            </p>
+            <p>
+               <hi>Ordine quidque ſuo.</hi>
+            </p>
+            <p>But firſt, of the former.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> 
+               <hi>That there is a time when the Lords hand is lifted up.</hi>
+            </p>
+            <p>In handling hereof we ſhall uſe this Method to ſhew you,</p>
+            <p>Firſt, <hi>How Gods hand is lifted up.</hi>
+            </p>
+            <p>Secondly, <hi>When it is lifted up.</hi>
+            </p>
+            <p>Thirdly, <hi>Why it is lifted up.</hi> And then wee ſhall labour to preſſe the practiſe of all by application.</p>
+            <pb n="14" facs="tcp:121286:15"/>
+            <p> 
+               <hi>How is Gods hand lifted up?</hi>
+               <note place="margin">
+                  <hi>1.</hi> Quo<g ref="char:EOLhyphen"/>modo.</note>
+            </p>
+            <p>For the underſtanding hereof, we muſt know that hand applyed to God, ſignifieth,</p>
+            <p n="1">1. Either Gods eternall &amp; effectu<g ref="char:EOLhyphen"/>all purpoſe of things to be done, <hi>Acts</hi> 4.28. where the people of Iſrael are ſaid to be gathered together, for to doe whatſoever Gods hand and his Counſell determined before to bee done.</p>
+            <p n="2">2. Or Gods actuall power wor<g ref="char:EOLhyphen"/>king all things which be done accor<g ref="char:EOLhyphen"/>ding to his purpoſe. Therefore <hi>David</hi> ſaith,<note place="margin">Pſ. 118.16</note> 
+               <hi>The right hand of the Lord is exal<g ref="char:EOLhyphen"/>ted, the right hand of the Lord doth vali<g ref="char:EOLhyphen"/>antly. Solomon</hi> bleſſeth the Lord God of <hi>Iſrael,</hi> who hath with his hands fulfilled that which he ſpake with his mouth to his Father <hi>David,</hi> 2 <hi>Cron.</hi> 6.4. and the like in <hi>v.</hi> 15.</p>
+            <p n="3">3. It ſignifies Gods bleſſing, pro<g ref="char:EOLhyphen"/>tection, and deliverance. <hi>Thou openeſt thy hand, and filleſt them with good;</hi> it is the language of the Prophet <hi>David</hi> in <hi>Pſalme</hi> 104.28.</p>
+            <p n="4">
+               <pb n="15" facs="tcp:121286:15"/> 4. Likewiſe Gods heavy diſplea<g ref="char:EOLhyphen"/>ſure manifeſted by puniſhing the wic<g ref="char:EOLhyphen"/>ked and chaſtiſing the godly.<note place="margin">Judg. 2.11.15.</note>
+            </p>
+            <p>When the Children of <hi>Iſrael</hi> did evill in the ſight of the Lord, and ſer<g ref="char:EOLhyphen"/>ved <hi>Baalim,</hi> then whenſoever they went out, <hi>the hand of the Lord was a<g ref="char:EOLhyphen"/>gainſt them for evill.</hi>
+            </p>
+            <p>
+               <hi>David</hi> in his great ſtrait deſireth,<note place="margin">2 Sam. 24. v. 14.</note> rather to fall into the hand of God, then man, into Gods correcting hand, then mans cruell cruſhing hand; and gives the reaſon of it; <hi>for Gods mercies are great.</hi>
+            </p>
+            <p>God hath bleſſing and protecting hands, correcting, and ſcourging hands, angry and revenging hands, to fall into theſe hands it is a fearefull thing.</p>
+            <p>I confeſſe Gods hand is in every worke, there's not a Sparrow that falls to the ground, but he hath a hand in it: but Gods lift up had ap<g ref="char:EOLhyphen"/>peares not in every thing; for the lift up hand of God, is ſome proper, and peculiar worke of God, wherein much of God is ſeene, and little of man.</p>
+            <p n="1">
+               <pb n="16" facs="tcp:121286:16"/> 1. Which may bee either a worke of mercy; as when the Lord brought backe <hi>Judah</hi>'s Captivity, was a work of mercy; the ſubduing our enemies, and freeing us from their ſlavery, was a work of Gods mercy, wherein his lift-up hand appeared.</p>
+            <p n="2">2. Or Gods lift-up hand may ap<g ref="char:EOLhyphen"/>peare in a worke of juſtice, when God thereby brings down them that dwell on high, as in <hi>verſe</hi> 5. of this <hi>Chapter,</hi> when God doth drive downe his peo<g ref="char:EOLhyphen"/>ples enemies, and manifeſts his wrath and vengeance on thoſe that are his adverſaries.</p>
+            <p>
+               <hi>When is Gods hand thus lifted up?</hi>
+               <note place="margin">
+                  <hi>2.</hi> Quan<g ref="char:EOLhyphen"/>do.</note>
+            </p>
+            <p n="1">1. When his people are lifted up in praying, then is Gods hand lifted up in delivering, and protecting them: when we lift up the hands of fervent prayers, then God lifts up the hands of ſweet mercies to his people. When <hi>Moſes</hi> on the hill lift up his hands, then Gods were lifted up, and <hi>Iſrael prevailed;</hi> but when <hi>Moſes</hi> grew weary, and <hi>let them downe,</hi> Gods
+<pb n="17" facs="tcp:121286:16"/>were ſo, and then <hi>Amalek</hi> prevailed.</p>
+            <p>When Gods people make a great noyſe at heaven gates.</p>
+            <p>When God can have no reſt night nor day for them,<note place="margin">Eſa. 62.7.</note> when they will not keep ſilence.</p>
+            <p>When with a <hi>Jacob</hi>-like importu<g ref="char:EOLhyphen"/>nity they wraſtle with God, lay vio<g ref="char:EOLhyphen"/>lent hands on him, (if I might ſay ſo) and <hi>will not let him goe,</hi> till hee have lift up the hand of favour for them; for <hi>God regardeth the prayers of the deſtitute,</hi> Pſal. 102.17. <hi>and not de<g ref="char:EOLhyphen"/>ſpiſe their prayer.</hi>
+            </p>
+            <p>When Gods enemies ſinne with a high hand,<note place="margin">
+                  <hi>2.</hi> Signe.</note> then it's Gods time to lift up his hand againſt them.</p>
+            <p>When they lift up a high hand of finning againſt God, he lifts up a heavy hand of vengeance againſt them, when their ſinnes are come to their full height, and come to their growth, and full ripeneſſe and matu<g ref="char:EOLhyphen"/>rity.</p>
+            <p>When they ſinne daringly, pre<g ref="char:EOLhyphen"/>ſumptuouſly, malitiouſly: when they commit ſinnes of bloud and blaſphe<g ref="char:EOLhyphen"/>mies, as if they would dare the
+<pb n="18" facs="tcp:121286:17"/>God of Heavens to doe his worſt.</p>
+            <p>Then God can endure no longer, hee can ſuffer no longer this at their hands, <hi>Shall not I viſit for theſe things, ſaith the Lord?</hi>
+               <note place="margin">Pſ. 68.21.</note> 
+               <hi>God ſhall wound the head of his enemies: and the hairy Scalpe of ſuch a one as goeth on ſtil in his treſpaſſes.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Signe. </seg>3</label> God lifts up his hand of Provi<g ref="char:EOLhyphen"/>dence, power, protection for his peo<g ref="char:EOLhyphen"/>ple, when hee ſees his people hear<g ref="char:EOLhyphen"/>tily lifting up their thankes in a Covenant with their God, for refor<g ref="char:EOLhyphen"/>ming their waies; 2 <hi>Chron.</hi> 15.12, 13, 14. when <hi>Judah</hi> and many of <hi>Iſrael</hi> had entred into a Covenant to ſeeke the Lord God of their Fathers, with all their heart,<note place="margin">V. 12.</note> and with all their ſoul.</p>
+            <p>That whoſoever would not ſeek the Lord God of Iſrael <hi>ſhould bee put to death,</hi>
+               <note place="margin">V. 13.</note> 
+               <hi>whether ſmall or great, whether man or woman.</hi>
+               <note place="margin">V. 14.</note> 
+               <hi>And they ſware unto the Lord with a loud voice, and with ſhouting, and with Trumpets, and with Cornets.</hi>
+            </p>
+            <p>
+               <hi>And all Judah rejoyced at the Oath;</hi>
+               <note place="margin">V. 15.</note> 
+               <hi>for they had ſworne with all their heart, and ſought him with their whole deſire, and he was found of them, and the Lord gave them reſt round about.</hi>
+            </p>
+            <pb n="19" facs="tcp:121286:17"/>
+            <p> 
+               <hi>Aſa</hi> and <hi>Judah's</hi> times were like theſe of ours, there was no peace to him that went out, nor to him that came in; for Nation was deſtroyed of Nation, and City of City, and God did vexe them with all adverſity; but other they entred into Covenant to <hi>ſeek</hi> the God of their Fathers, with all their hearts and ſoule: the Lords hand was lifted up for them, and gave them reſt round about, reſt from feares, reſt from troubles, from war, and adverſity: For there was no more war unto the five and thirtieth yeare of the Reigne of <hi>Aſa.</hi>
+               <note place="margin">V. 19.</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Signe. </seg>4</label> When Gods enemies lift up a hand of rage and bloud, in wrath and fu<g ref="char:EOLhyphen"/>ry againſt the Church and peo<g ref="char:EOLhyphen"/>ple of God: then God lifts up the hand of his Juſtice upon them, of re<g ref="char:EOLhyphen"/>ſcue and revenge: when they ſhew themſelves moſt malicious, then God ſhewes himſelfe moſt gracious, and mercifull to his people, by the lift-up hand of his Juſtice, and judgements upon their enemies; when they come to a height of cruelty of burning, and depopulating, then is Gods time
+<pb n="20" facs="tcp:121286:18"/>to act his part; what ſaith God, will they plunder, and burne, and deſtroy all before them, and thus uſe my peo<g ref="char:EOLhyphen"/>ple before my face, and ſhall I lift not my hand againſt them, but ſit ſtill and let them alone? When <hi>David</hi> ſaw the enemy in this fury and madneſſe, ſee what arguments hee uſeth to move God, to lift up his hand againſt them, Pſalme 74.10. <hi>Oh God, how long ſhall the adverſary reproach, ſhall the enemy blaſpheme thy Name for ever? why with<g ref="char:EOLhyphen"/>draweſt thou thy hand? plucke it out of thy boſome.</hi>
+            </p>
+            <p>And when God ſees the wrath of wicked men break forth into blaſphe<g ref="char:EOLhyphen"/>mies and cruelties, and heares the im<g ref="char:EOLhyphen"/>portunate arguments of his people, to ſtretch out his hand againſt them; then he cannot let them alone long. <hi>The enemy ſaid,</hi>
+               <note place="margin">Exo. 15. V. 9.</note> 
+               <hi>I will purſue, I will over<g ref="char:EOLhyphen"/>take, I will divide the ſpoyle, my luſt ſhall be ſatisfied upon them: I will draw my ſword, my hand ſhall deſtroy them.</hi>
+            </p>
+            <p>
+               <hi>Thou didſt blow with thy winde, the Sea covered them,</hi>
+               <note place="margin">V. 10.</note> 
+               <hi>they ſank as lead in the mighty waters.</hi>
+            </p>
+            <p>
+               <hi>Who is like unto thee,</hi>
+               <note place="margin">V. 11.</note> 
+               <hi>oh Lord, amongſt
+<pb n="21" facs="tcp:121286:18"/>the Gods, who is like thee glorious in ho<g ref="char:EOLhyphen"/>lineſſe, fearefull in prayſes, doing won<g ref="char:EOLhyphen"/>ders?</hi>
+            </p>
+            <p>
+               <hi>Thou ſtretchedſt out thy right hand,</hi>
+               <note place="margin">V. 12.</note> 
+               <hi>the earth ſwallowed him.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quare </seg>3</label> 
+               <hi>Why, or wherefore is Gods hand lift up?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> In regard of Gods tender affecti<g ref="char:EOLhyphen"/>on towards his people, and that neare relation between him and his peo<g ref="char:EOLhyphen"/>ple. Therefore it is, that he takes a time to lift up his hand for them.</p>
+            <p>He is their God, Father, Husband, Maſter, Head; they his People, Chil<g ref="char:EOLhyphen"/>dren, Spouſe, Servants, Members: Now what is done to any of his, hee takes it as done to himſelfe. <hi>He that toucheth you, toucheth the apple of mine eye, Zech.</hi> 2.8. The eye is tender, and will not ſuffer to bee por'd at, and what hurt is done to the eye is pre<g ref="char:EOLhyphen"/>ſently at the heart, and the tongue complaines. <hi>Saul, Saul, why perſecu<g ref="char:EOLhyphen"/>reſt thou me?</hi> was our Saviours words; Chriſt was in heaven, and <hi>Saul</hi> on earth, yet <hi>Saul</hi> could not tread on the
+<pb n="22" facs="tcp:121286:19"/>leaſt Toe of Chriſts, hee could not perſecute the meaneſt Member of Chriſt, but he was ſenſible of it. <hi>Chri<g ref="char:EOLhyphen"/>ſtus loquitur, Chriſtus patitur, quia in Corpore Chriſti, Chriſtus eſt.</hi>
+            </p>
+            <p>He ſpeakes becauſe he ſuffers; he is in all his Members: ſo that though he be free from paſſion, hee is full of compaſſion, in regard of that affection he hath to his people: in a word, wicked men cannot hate the godly, but God muſt needs be ſenſible of it: They cannot lift up their hands a<g ref="char:EOLhyphen"/>gainſt them, but they will bee found fighters againſt God, and God hath a time to reckon with them; hee will take a time to lift up his hand againſt them, that lift up their hands againſt his people; in regard of that tender affection hee beares to his people, and that neare relation that is be<g ref="char:EOLhyphen"/>twixt him and them: And this is the firſt Reaſon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> The Lords hand is lifted up for his people; becauſe their hands are lifted up for the Lord.</p>
+            <p>They are ingaged in Gods quar<g ref="char:EOLhyphen"/>rells, and intereſted in Chriſts cauſe.
+<pb n="23" facs="tcp:121286:19"/>The Lord uſually takes their parts that takes his, and will not ſuffer the Rod of the wicked to reſt al<g ref="char:EOLhyphen"/>wayes on the backs of thoſe that are righteous in his eyes, hee beholds their ſufferings, and will not ſuffer them to ſuffer long. Can God (who is rich in mercy, full of mercy) ſee his Servants, his Sonnes and Daugh<g ref="char:EOLhyphen"/>ters ſmitten down to the ground, and ſtand by, and not take their parts, and right their wrongs, and revenge their quarrell? and if God owne us, and ſtand for us, wee need not feare who comes againſt us; if wee get but him on our ſide, wee need not feare the fraud and force of the moſt ſubtile and ſtrongeſt enemies.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> Gods hand of Juſtice is lifted up a<g ref="char:EOLhyphen"/>gainſt the enemies of Gods Church and people, thoſe that envy them, and riſe up againſt them, becauſe they are the diſturbers of their peace, and hin<g ref="char:EOLhyphen"/>derers of their proſperity.</p>
+            <p>Whilſt Gods hand lets them alone, they are as thornes in their eyes, and therefore the fire of his enemies doth devoure them.</p>
+            <pb n="24" facs="tcp:121286:20"/>
+            <p> If God ſhould let his hand reſt in his boſome ſtill, and ſeeme to ſleepe ſtill: then the Jeſuites, and Papiſts, and Atheiſts, and all the Devills in<g ref="char:EOLhyphen"/>ſtruments would make moſt miſe<g ref="char:EOLhyphen"/>rable havock in the Church of God, how would they perſecute, and de<g ref="char:EOLhyphen"/>ſtroy, and teare in pieces the people of God, as ſo many Beares, and Ly<g ref="char:EOLhyphen"/>ons, and Wolves, and Tigers? Theſe wild Boares would ſpeedily root up the proſperous eſtate of the Church of God.</p>
+            <p>But God who loves his Church with his lift up hand breakes their power and ſtrength, that thereby his Church might have reſt, and quiet<g ref="char:EOLhyphen"/>neſſe. When the hoſt of <hi>Siſera</hi> fell up<g ref="char:EOLhyphen"/>on the edge of the ſword, then there <hi>was reſt round about,</hi> which was good ground for <hi>Deborah</hi> to ſing, <hi>So let all thine enemies periſh, oh Lord,</hi> Judg. 5. laſt verſe.</p>
+            <p>Till the Beſome of deſtruction ſweeps theſe Church and State troub<g ref="char:EOLhyphen"/>lers out of the Land, wee muſt never look for peace.</p>
+            <p>
+               <hi>Davids</hi> Prayer might ſeaſonably be
+<pb n="25" facs="tcp:121286:20"/>inſerted here, out of <hi>Pſalme</hi> 104.35. <hi>Let the ſinner bee conſumed out of the earth, and let the wicked be no more.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> 1. Since there is a time, when Gods hand is lift up for his people, then let us examine, whether Gods hand hath been lift up for us.</p>
+            <p>Certainly every eye that is not blind may ſee wee have had Gods hand lift up for us, in the great works and tur<g ref="char:EOLhyphen"/>nings of theſe times.</p>
+            <p>Let our reaſons ſpeak, and Re<g ref="char:EOLhyphen"/>ligion be ſilent, this laſt yeare hath been <hi>mirabilis ille annus,</hi> the yeare of Gods wonders; hath not the pro<g ref="char:EOLhyphen"/>ceedings of every week, ſpoke won<g ref="char:EOLhyphen"/>der-working God?</p>
+            <p n="1">1. Was it not the lift-up hand of God that gathered this pious Parlia<g ref="char:EOLhyphen"/>ment together at firſt, and hath pre<g ref="char:EOLhyphen"/>ſerv'd them together to this moment of time?</p>
+            <p n="2">2. Who was it that could diſcover ſo many ſecret, Antichriſtian, ſubtile, Diabolicall<note n="*" place="margin">For they were hatcht in hell, before they were acted on earth.</note> Plots againſt both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, ſince they firſt be<g ref="char:EOLhyphen"/>gan, but the <hi>lift-up hand of God?</hi>
+            </p>
+            <p n="3">
+               <pb n="26" facs="tcp:121286:21"/> 3. Who is it that could cauſe an Army to ſtand for <hi>Englands</hi> Parlia<g ref="char:EOLhyphen"/>ment, <hi>Englands</hi> Laws, <hi>Englands</hi> Religi<g ref="char:EOLhyphen"/>on, when there was but a handfull, but a remnant in compariſon of the whole peece and people of the Land?</p>
+            <p n="4">4. Who was it that hath cleared our County, and driven out our ene<g ref="char:EOLhyphen"/>mies, broken their power, abated their pride, and put them to ſhame &amp; confuſion that mocked us, and roſe up againſt us, was it not the <hi>lift-up hand of God?</hi>
+            </p>
+            <p>If ſo much of God hath been ſeene in the work, then the work is Gods: And as <hi>Moſes</hi> ſaid to <hi>Iſrael,</hi> ſo ſay I to <hi>England,</hi>
+               <note place="margin">Deut. 4.32</note> 
+               <hi>Aske from the one ſide of Heaven to the other, whether there hath beene any ſuch thing as this great thing is, or hath been heard like it.</hi>
+            </p>
+            <p>I ſhall not now lead you abroad to behold a ſight of the lift-up hand of God, protecting, and proſpering our Armies both by Sea and Land; but I ſhall keep me within the Con<g ref="char:EOLhyphen"/>fines of this County.</p>
+            <p n="1">1. Looke back into the Infancy of theſe bloudy times by our unnatu<g ref="char:EOLhyphen"/>rall
+<pb n="27" facs="tcp:121286:21"/>wars, and conſider the unskilful<g ref="char:EOLhyphen"/>neſſe of Commanders and Souldiers, being bread in a Land of peace, and were ignorant in the policies and ſtratagems of Warres: but Gods <hi>lift-up hand,</hi> which put the worke into their hands, put skil into their hands, and courage into their hearts, at the very firſt aſſault of <hi>Mancheſter,</hi> at which time there appeared ſuch mirth and majeſty, in our Souldiers, ſuch valour and courage in their counte<g ref="char:EOLhyphen"/>nances, and all their actions, that it did ſpeak aloud to me, that God was with them, and his lift-up hand for them.</p>
+            <p n="2">2. Look upon the number of our Souldiers at that time, not above five hundred fire-men; againſt thouſands that came againſt that then naked and unfortfied Towne of <hi>Mancheſter,</hi> yet prevailed not, but were driven backe with loſſe and ſhame, and would not ſee Gods lift-up hand againſt them, though he cauſed the heavens at that time to weep for them, who could not weep for themſelves.</p>
+            <p n="3">3. Look upon the little Elbow-roome,
+<pb n="28" facs="tcp:121286:22"/>wee then had in the County; for when Gods lift-up hand had ap<g ref="char:EOLhyphen"/>peared gloriouſly in <hi>Saltford</hi> Hun<g ref="char:EOLhyphen"/>dred, <hi>Blackebourne</hi> Hundred was the onely other Hundred in the Countie that was moſt forward, and next ap<g ref="char:EOLhyphen"/>peared in the ſame cauſe; then our Enemies commanded all the Caſtles in the County, had foure Garri<g ref="char:EOLhyphen"/>ſons for one, four parts of the Coun<g ref="char:EOLhyphen"/>ty to command two parts, and could command as many adjacent Coun<g ref="char:EOLhyphen"/>ties for their aſſiſtance. And was it not Gods lift-up hand which hath driven them out of all?</p>
+            <p>Look upon their many meanes; and advantages; they had many roa<g ref="char:EOLhyphen"/>ring, thundering, terrifying Can<g ref="char:EOLhyphen"/>nons, we but one ſmall Peece:<note n="*" place="margin">
+                  <hi>Mr.</hi> An<g ref="char:EOLhyphen"/>geer.</note> one ſaid well of them, theirs did but play, but did no worke; whilſt the lift-up hand of the God of the Seas was working with the Windes to bring a <hi>Dunkirke</hi> ſhip, a man of War, that came from <hi>Spaine,</hi> furniſhed with one and twenty Peeces of Braſſe and Iron Ordnance fit to ſup<g ref="char:EOLhyphen"/>ply our preſent wants, and to carry
+<pb n="29" facs="tcp:121286:22"/>them ſo<note n="*" place="margin">Twire<g ref="char:EOLhyphen"/>foot.</note> neare our ſtrongeſt Ca<g ref="char:EOLhyphen"/>ſtle, which had no Cannon at all: was not this <hi>Digitus Dei,</hi> pointing at the place where they ſhould bee pla<g ref="char:EOLhyphen"/>ced?</p>
+            <p n="5">5. And ſhall wee not remember the hand of GOD, in preſerving the Caſtle of LANCASTER, af<g ref="char:EOLhyphen"/>ter the Cannons were haſtily con<g ref="char:EOLhyphen"/>veyed thither; the envy of our E<g ref="char:EOLhyphen"/>nemies was preſently encreaſed, and therefore with much fury, and with all their Forces, came againſt the Towne and Caſtle, and were ſo hot that they quickly fired the Towne, and thought thereby to have fired or frighted us out of the Caſtle, and ſo have gained that which Gods hand had lately given unto us. Yet unwilling to fight with our For<g ref="char:EOLhyphen"/>ces that came to relieve us, fearing thereby they ſhould loſe their Plun<g ref="char:EOLhyphen"/>der wherewith they were loaden, re<g ref="char:EOLhyphen"/>treated, and took the opportunity to prevaile againſt <hi>Preſton,</hi> which ſuc<g ref="char:EOLhyphen"/>ceſſes ſurpriſed the ſpirits, and diſcou<g ref="char:EOLhyphen"/>raged the hearts of the chief <hi>Comman<g ref="char:EOLhyphen"/>ders</hi> in the Caſtle, that they thought
+<pb n="30" facs="tcp:121286:23"/>the ſafeſt way for themſelves was to march towards <hi>Mancheſter,</hi> and quit the Caſtle. And when ſouldiers were left diſcontented, and without Com<g ref="char:EOLhyphen"/>manders here, yet did Gods hand ap<g ref="char:EOLhyphen"/>peare in moving their hearts to de<g ref="char:EOLhyphen"/>fend that place, and thoſe Canons, which Gods providence had given unto them. Might I ſpeak out with<g ref="char:EOLhyphen"/>out offence, or without the cenſure of arrogating any thing to my ſelfe, I am confident, I could cauſe every Chriſtian preſent to confeſſe, that at this time the Lords hand was mighti<g ref="char:EOLhyphen"/>ly lifted up for us.</p>
+            <p n="6">6. Laſtly, look upon their perſons, as well as their actions, who roſe up againſt us, (who were weake and an unworthy people of any protection from God) they were Lords, Knights, and Gentlemen of great perſonage, whoſe perſonages were promoted to great places, whoſe places were of great power: but now where are the perſons, where are their places, where is their power? all vaniſhed: by this time they may bee aſhamed for their envy at us, &amp; for firing our habitati<g ref="char:EOLhyphen"/>ons,
+<pb n="31" facs="tcp:121286:23"/>the fire of Gods enemies hath met with them, and deſtroyed many of them. For, <hi>Lord, when thy hand was lifted up they would not ſee: but they ſhall ſee, and be aſhamed for their envy of the people, yea, the fire of thine ene<g ref="char:EOLhyphen"/>mies ſhall devoure them.</hi>
+            </p>
+            <p>Thus much for the firſt Uſe, being a Uſe of examination.</p>
+            <p>Secondly, ſuffer a word of Exhor<g ref="char:EOLhyphen"/>tation.</p>
+            <p>Is Gods hand lifted up for us? hath he extended the lift-up hand of mercy to us?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> Then let us be lifted up in duties to our God: ſhall God do all this for us, and ſhall we doe nothing for our God? Hath hee performed his pro<g ref="char:EOLhyphen"/>miſes to us, and lift up the hand of his providence for us? let us then la<g ref="char:EOLhyphen"/>bour to performe our duties to God. I might herein urge <hi>lex talionis,</hi> the Law of taliation, which will re<g ref="char:EOLhyphen"/>quire the diſcharging of our duties to God, anſwerable to the meaſure of mercies received from God. Thus in generall, but that I might not ſpeak confuſedly, and unprofitably, I ſhall
+<pb n="32" facs="tcp:121286:24"/>digeſt this Exhortation into theſe foure branches, for your better re<g ref="char:EOLhyphen"/>membrance.</p>
+            <p>The duties are theſe foure, which I urge.</p>
+            <list>
+               <item>1. <hi>Lift up your Confidence in God.</hi>
+               </item>
+               <item>2. <hi>Lift up your Courage for God.</hi>
+               </item>
+               <item>3. <hi>Lift up your Prayers to God.</hi>
+               </item>
+               <item>4. <hi>Lift up your Praiſes of God.</hi>
+               </item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>1</label> The firſt Duty I preſſe you to is Confidence in God; we have experi<g ref="char:EOLhyphen"/>ence of him, let us put more confi<g ref="char:EOLhyphen"/>dence in him, and truſt in him and to him. We have had plaine experience of his providence towards us, his mercies to us, his power for us. Lift up the hand of Faith, now God hath lift up the hand of favour to us; what a ſhame is it for us Chriſtians, not to truſt God further then wee ſee him? moſt of us could not believe, that God would lift up his hand for us, till they ſaw what his hand had mightily brought to paſſe for us.</p>
+            <p>We will beleeve in, and put truſt to man, and ſhall we not fix our faith
+<pb n="33" facs="tcp:121286:24"/>on God? wee will ſay of man, he is my old friend, and hee never deceiv'd me, I dare truſt to him, he hath pro<g ref="char:EOLhyphen"/>miſed me, and I am ſure he will not deceive me: and tell me, what man can be found, or ever was heard of, that could ſay, I have truſted in God, and he deceived me? hath God pro<g ref="char:EOLhyphen"/>miſed thee protection, and ſhall hee not performe it? hath he ſaid it, <hi>It is eaſier for heaven and earth to paſſe,</hi>
+               <note place="margin">Luk 16.17. e</note> 
+               <hi>then that one little of his Word ſhould faile.</hi>
+               <note place="margin">1 Kings 8.56.</note> And what the Lord ſaid to his Ser<g ref="char:EOLhyphen"/>vant <hi>Joſhua,</hi> he ſeems to ſpeak to all his faithfull people, <hi>Joſh.</hi> 1.5. <hi>I will be with thee, I will not faile thee nor for<g ref="char:EOLhyphen"/>ſake thee.</hi>
+            </p>
+            <p>It is a ſad thing, that though Gods promiſes have been made good in his providence to us, he hath performed his word in his works; yet our faith is ſo weak, that it is not able to carry us from one County to another; nay from one Towne to another, from one miracle to another, his hand is not weakned, nor arme ſhortned, but it may, it can, it will help another County as well as this. Let <hi>Davids</hi>
+               <pb n="34" facs="tcp:121286:25"/>arguments move you to put your con<g ref="char:EOLhyphen"/>fidence in God, <hi>Pſalme</hi> 37.3. <hi>Truſt in the Lord and doe good; ſo ſhalt thou dwell in the Land, and verily thouſhalt be fed:</hi> and look the laſt Verſe, ſee how hee heapes up arguments in few words to urge and force us to truſt in God; <hi>for the Lord ſhall helpe them and deliver them:</hi>
+               <note place="margin">V. 40.</note> 
+               <hi>he ſhall deliver them from the wic<g ref="char:EOLhyphen"/>ked and ſave them, becauſe they truſt in him.</hi>
+            </p>
+            <p>I'le ſay no more of this, but with the ſame Prophet, <hi>They that know thy Name will put their truſt in thee; for thou Lord haſt not forſaken them that ſeek thee. Pſalme</hi> 9.10.</p>
+            <p>Since God hath not forſaken us, but, we muſt confeſſe, hath lift up his hand for us, let us make it appeare to the world that wee know him, by putting confidence in him; which is the firſt duty required of us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>2</label> Lift up your courage and reſoluti<g ref="char:EOLhyphen"/>ons for God, for Gods hand is lifted up for us in our deliverance and pre<g ref="char:EOLhyphen"/>ſervation.</p>
+            <p>Shall our Spirits be downe, when
+<pb n="35" facs="tcp:121286:25"/>God is up for us? It's a ſhame that ſo great and mighty a cauſe, which is proſperouſly carryed on by the high God, ſhould bee managed with ſuch poore low ſpirited men as we are: a good cauſe, and a good courage ſhould alwayes be companions.</p>
+            <list>
+               <item>1. <hi>This is Gods precept.</hi>
+               </item>
+               <item>2. <hi>This is his peoples practice.</hi>
+               </item>
+            </list>
+            <p>For the firſt ſee <hi>Joſh.</hi> 1.9. <hi>Have not I commanded thee, be ſtrong and of a good courage, be not afraid, neither be thou diſ<g ref="char:EOLhyphen"/>mayed: for the Lord thy God is with thee, whitherſoever thou goeſt?</hi>
+               <note place="margin">Deut. 31.6</note> Conſider Chriſtians who are our enemies that wee ſhould feare them, ſince we ſee Gods hand is againſt them. Why ſhould one feare them that feare not God? they have lifted up their hands againſt God, therefore Gods hand is lifted up againſt their power, plots, policies, and all their preparations.</p>
+            <p n="2">2. This is Gods people practice. <hi>Neh.</hi> 6.11. When <hi>Sanballat</hi> and <hi>To<g ref="char:EOLhyphen"/>biah,</hi> (both grand enemies to Refor<g ref="char:EOLhyphen"/>mation) practiſed by craft, by rumors, by hired Propheſies to terrifie <hi>Nehe<g ref="char:EOLhyphen"/>miah,</hi> and hinder his good worke of
+<pb n="36" facs="tcp:121286:26"/>Reformation, yet lifts up his courage; <hi>Shall ſuch a man as I flee?</hi> As if he had ſaid; ſhall ſuch a man as I, who have ſo many promiſes made to me by my God, I that have ſo many experiences of Gods providences, I that have ſeen ſo often times Gods hand lifted up for me, <hi>ſhall I flee?</hi> I will not.</p>
+            <p>When the children of <hi>Ammon</hi> and the <hi>Syrians</hi> came againſt <hi>Iſrael, David</hi> puts on courage, and encourageth the people; <hi>Be of good courage, and let us play the men for our people, and for the Cities of our God: and the Lord doe that which ſeemeth him good,</hi> 2 Samuel 10.12.</p>
+            <p>That Ironicall ſpeech of the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah</hi> is very pregnant to this place, <hi>Iſa.</hi> 8.9, 10. <hi>Aſſociate your ſelves, ô yee people,</hi>
+               <note place="margin">V. 10.</note> 
+               <hi>and yee ſhall bee broken in pieces, and give eare all yee of far Coun<g ref="char:EOLhyphen"/>treyes; Gird your ſelves, and yee ſhall bee broken in pieces: gird your ſelves, and ye ſhall be broken in pieces, take counſell to<g ref="char:EOLhyphen"/>gether, and it ſhall come to nought: ſpeak the word and it ſhall not ſtand, for God is with us.</hi> Is it not manifeſt God is with us, by his hand lifted up for
+<pb n="37" facs="tcp:121286:26"/>us? Therefore let our courage be lifted up for God; which is the ſecond duty required of us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>3</label> Let us lift up our hands, and hearts to God in Prayers: for our God hath his hands lifted up for us in his Pro<g ref="char:EOLhyphen"/>vidences, hee hath heard our Prayers, and granted our requeſts, let us bee encouraged to pray continually. I am perſwaded that prayers have done as much as weapons in ſubduing our e<g ref="char:EOLhyphen"/>nemies: The Churches prayers have been as prevalent as our Souldiers Swords.</p>
+            <p>The praying people in the Land have done beſt ſervice in the cauſe of God.</p>
+            <p>Worthy <hi>Commanders,</hi> I confeſſe you have done couragiouſly, and deſerve much for your fidelity and magnani<g ref="char:EOLhyphen"/>mity, but aſſume nothing to your ſelves, but aſcribe all to the lift-up hand of God.</p>
+            <p>Valiant <hi>Souldiers,</hi> I confeſſe you have plaid the men for your Country, and the Cities of our God, but take nothing to yourſelves, though you
+<pb n="38" facs="tcp:121286:27"/>deſerve much; but give all to the lift-up hand of God; and let all our hands and hearts bee lifted up to God in prayers, who hath lifted up his hand for us in Providences.</p>
+            <p>Prayers are powerfull with God, able to bring the promiſes of God in<g ref="char:EOLhyphen"/>to gracious performances.</p>
+            <p>Prayers have a power to undermine all the plots, and break in pieces the power of our enemies;<note place="margin">Eſth. 4.16.</note> 
+               <hi>Eſther, Morde<g ref="char:EOLhyphen"/>cai,</hi> and the Jewes prayed, and they prayed <hi>Hamans</hi> Plot to confuſion,<note place="margin">Eſth. 7.10.</note> and his perſon to the Gallowes.</p>
+            <p>Let us therefore with a <hi>Jacob</hi>-like importunity wraſtle with God in Prayer, and reſolve not to let him go, till he bleſſe us with the perfecting of all our works in us, and for us.</p>
+            <p>Let us keep no ſilence; let the Lord have not an houres reſt, till hee have given reſt to <hi>England,</hi> and deliverance out of all her troubles.</p>
+            <p>What the Prophet ſpake to Gods Remembrancers,<note place="margin">
+                  <hi>Eſa.</hi> 62.6.</note> his Meſſengers, I ſpeak to all my hearers; <hi>Never hold your peace day nor night, keep not ſilence, give the Lord no reſt till he eſtabliſh, and
+<pb n="39" facs="tcp:121286:27"/>till he make our Jeruſalem a praiſe in the earth.</hi>
+            </p>
+            <p>This is the third Duty required of us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>4</label> Let us bee lifted up in praiſes to God, for God is lifted up in provi<g ref="char:EOLhyphen"/>dences to us.</p>
+            <p>Let us lift up the voyce of praiſes to God, he hath done great things for us, whereof our hearts this day are glad; let us praiſe him for it with lift-up tongues, with lift-up hands, with lift-up hearts.</p>
+            <p n="1">1. The tongue is made to inter<g ref="char:EOLhyphen"/>pret the meaning of the heart, the lips are the Trumpet, but it is the heart that gives it breath to ſound out Gods praiſes; therefore <hi>David</hi> ſaith, <hi>With a loud voice will I praiſe thee,</hi>
+               <note place="margin">Pſal. 48.</note> 
+               <hi>and with the voice of triumph: let our tongues talke of Gods righteouſneſſe all the day long.</hi>
+               <note place="margin">Pſal. 89.</note>
+            </p>
+            <p n="2">2. The hands muſt play their parts in this dayes duty, or elſe our pray<g ref="char:EOLhyphen"/>ſes are ſpoiled: praiſing God in words is little worth, without we praiſe him in our works.</p>
+            <p>Therefore the Jewes when they
+<pb n="40" facs="tcp:121286:28"/>dedicated dayes of thankeſgiving to God,<note place="margin">Eſt. 9.22.</note> 
+               <hi>gave gifts to the poor.</hi>
+            </p>
+            <p n="3">3. Let our hearts be chiefe in diſ<g ref="char:EOLhyphen"/>charging this dayes duty, make <hi>melo<g ref="char:EOLhyphen"/>dy in your hearts to the Lord this day,</hi> for if our hearts be not in tune, we ſhall make no <hi>harmony</hi> in Gods eares this day, it muſt be <hi>homo cordis,</hi> the man of the heart, that muſt make us thankful men: when wee are about this duty, let our reſolutions be that of <hi>Davids, I will praiſe thee with my whole heart,</hi> Pſal. 138.1.</p>
+            <p>Let us not only this day performe this duty, but let our lives al the days of our life praiſe God, which is the life of praiſes: it is a poore praiſing of God with our lips, when our lives diſpraiſe our God. Gods hand is lifted up in multiplying his mercies upon us. God enable us to multiply our duties to God, by <hi>truſting in him, being couragious for him, praying to him, prayſing of him.</hi>
+            </p>
+            <p>I have dwelt long on this firſt Do<g ref="char:EOLhyphen"/>ctrine, but ſhall therefore bee very briefe on the next.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <hi>That when the Lords hand is lifted up,</hi>
+               <pb n="41" facs="tcp:121286:28"/>
+               <hi>there are ſome that will not ſee it.</hi> They ſee by the eye of ſence and reaſon; but not as it is the hand of God, they may ſee the worke, but they know not it to be the worke of God. The Lord labours by the Prophet <hi>Iſaiah</hi> to convince the people,<note place="margin">Eſa. 48.6, 7, 8.</note> of their fore<g ref="char:EOLhyphen"/>known obſtinacie, in theſe words.</p>
+            <p>
+               <hi>Thou haſt heard, ſee all this: and will not ye declare it? I have ſhewed thee new things from this time, even hidden things, and thou didſt not know them.</hi>
+            </p>
+            <p>
+               <hi>Yea thou heardeſt not,</hi>
+               <note place="margin">V. 8.</note> 
+               <hi>yea thou kneweſt not, yea from that time that thine ear was not opened: for I knew that thou wouldſt deale very treacherouſly, and was called a tranſgreſſor from the womb.</hi>
+            </p>
+            <p>But we ſhall lay you downe briefly ſome grounds of this Doctrine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> Why ſome will not ſee the Lords Lift-up hand; becauſe they want a ſpirituall eye: for the things of God are ſpiritually diſcerned. A carnall man cannot diſcern Gods hand, hee cannot perceive the paſſages of Gods providence,<note place="margin">1 Cor. 2. v. 14.</note> he is blind in things of God. He may be quicke ſighted in na<g ref="char:EOLhyphen"/>turall things, but as blinde as a beetle
+<pb n="42" facs="tcp:121286:29"/>in ſpirituall things;<note place="margin">V. 15.</note> 
+               <hi>for he that is ſpiri<g ref="char:EOLhyphen"/>tuall diſcerneth all things.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> This may bee in reſpect of God, withdrawing the ſpirituall ſenſe of diſcerning the wayes of his providen<g ref="char:EOLhyphen"/>ces, and judgements. God may deny it to many.</p>
+            <p>What <hi>Moſes</hi> ſaid of many in <hi>Iſrael,</hi> I may ſay of many in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Ye have ſeen all that the Lord did be<g ref="char:EOLhyphen"/>fore your eyes in the Land of Egypt unto</hi> Pharaoh,<note place="margin">Deut. 29.2 4.</note> 
+               <hi>and unto all his ſervants, and unto all his land.</hi>
+            </p>
+            <p>
+               <hi>The great temptations which thine eyes have ſeen, the ſignes, and thoſe great Mi<g ref="char:EOLhyphen"/>racles: yet the Lord hath not given you a heart to perceive, and eyes to ſee, and eares to heare unto this day.</hi>
+            </p>
+            <p>Becauſe God in his juſt judgement may give them over to the God of this world,<note place="margin">
+                  <hi>3.</hi> Reaſ.</note> that Prince of darkneſſe, to be blinded to their deſtruction: of ſuch the Apoſtle <hi>Paul</hi> ſpeaks,<note place="margin">Eph. 2.2.</note> which were amongſt the <hi>Epheſians, who wal<g ref="char:EOLhyphen"/>ked according to the courſe of this world, according to the Prince of the power of the aire, the ſpirit that now worketh in the children of diſobedience.</hi> So that they
+<pb n="43" facs="tcp:121286:29"/>(in a juſt judgment) are blinded, that they cannot diſcerne the wayes of God. Of all judgements theſe ſpiri<g ref="char:EOLhyphen"/>rituall judgements are heavieſt, and this judgement is mentioned by the Apoſtle <hi>Paul, Rom.</hi> 9. v. 8. according as it is written, <hi>God hath given them the ſpirit of ſlumber; eyes that they ſhould not ſee, and eares that they ſhould not hear un<g ref="char:EOLhyphen"/>to this day.</hi> The Apoſtle here hath re<g ref="char:EOLhyphen"/>ference to the Prophet <hi>Iſaiah</hi> his pro<g ref="char:EOLhyphen"/>pheſie of the obſtinacy of the people unto their deſolation. And he ſaid,<note place="margin">Eſa. 6.9, 10.</note> 
+               <hi>Goe and tell this people, Heare ye indeed, but underſtand not: and ſee yee indeed, but perceive not. Make the heart of this peo<g ref="char:EOLhyphen"/>ple fat, and make their eares heavy, and ſhut their eyes, leſt they ſee with their eyes, and heare with their eares, and underſtand with their heart, and convert, and be hea<g ref="char:EOLhyphen"/>led.</hi>
+            </p>
+            <p>The Lord open our eyes, and boare our eares, and touch our hearts, with his gracious Spirit, that wee may never fall into theſe worſt of his judg<g ref="char:EOLhyphen"/>ments.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>1</label> This informes us of a blinde gene<g ref="char:EOLhyphen"/>ration in the world who cannot ſee,
+<pb n="44" facs="tcp:121286:30"/>and will not ſee Gods hand lifted up, that will not take notice what God is doing in <hi>England.</hi>
+            </p>
+            <p>They are a churliſh dogged peo<g ref="char:EOLhyphen"/>ple, that bark and ſnarle at the works of God, that ſpeake the language of <hi>Sanballat</hi> and <hi>Tobiah, Neb.</hi> 4.2, 3. <hi>What doe theſe feeble Jewes do? will they forti<g ref="char:EOLhyphen"/>fie themſelves? will they ſacrifice? will they make an end in a day? will they revive the ſtones out of the heapes of the rubbiſh which are burnt?</hi> So theſe ſay, What wil theſe brain-ſick Puritanes, and Round-heads doe? will they preſently build a new Religion, will they have a new Diſcipline? &amp;c.</p>
+            <p>It's theſe our blind <hi>Britaines,</hi> which makes our <hi>Parliament Worthies</hi> ſtand in <hi>Nehemiah's poſture,</hi> working, con<g ref="char:EOLhyphen"/>ſulting with the one hand, and hol<g ref="char:EOLhyphen"/>ding their weapons in the other.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> Theſe wilfull blinde miſerable men being diſcovered to you, in the next place I might thunder terrour to them, that oppoſe the hand of God lifted up for the Churches cauſe.</p>
+            <p>Wilt thou goe on to fight againſt God now his hand is lift up againſt
+<pb n="45" facs="tcp:121286:30"/>thee? thou wouldſt bee aſhamed, if thou didſt perceive and underſtand what thou art doing; thou layeſt a<g ref="char:EOLhyphen"/>bout thee, and knoweſt not who thou ſmiteſt; thou knoweſt not what thou doſt. If God in mercy would open thine eyes, thou wouldſt ſee &amp; plain<g ref="char:EOLhyphen"/>ly perceive, that thou art oppoſing Gods worke, that thou haſt lifted up thy hand againſt God, and buffeted him, and wounded through the ſides of his ſervants, God himſelfe. Couldſt thou ſee this, thou wouldſt be aſha<g ref="char:EOLhyphen"/>med. Did <hi>Pharaoh</hi> ſee that none of his devices proſpered againſt <hi>Iſrael,</hi> and that hee could not worke wiſely e<g ref="char:EOLhyphen"/>nough to deſtroy them: Did hee ſee that the more violent hee was, the more God took their part, and fol<g ref="char:EOLhyphen"/>lowed him with Plagues, ſo that his ſervants askt him,<note place="margin">Exo. 10.7.</note> 
+               <hi>If hee would ſee all Egypt deſtroyed before hee would let them goe;</hi> yet he would not ſee, but runnes on in miſchiefe, till the fire of Gods enemies had devoured him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>3</label> Suffer a word of Exhortati<g ref="char:EOLhyphen"/>on, and then I ſhall cloſe: it lookes (beloved) on you whoſe eyes have
+<pb n="46" facs="tcp:121286:31"/>ſeen the great things God hath done for theſe parts, how mercifully Gods hand hath been lifted up for this County: You ought now to bleſſe God that you have eyes, that have ſeen; oh bleſſe God that you were not blinded to your owne deſtruction: therefore now learn to feare the Lord, &amp; ſerve him with all your hearts, all your dayes. It's the lift-up hand of God that hath crowned this poore County with his bleſſings, in inlar<g ref="char:EOLhyphen"/>ging the borders of our tranquillity; ſo that as <hi>Moſes</hi> ſaid of <hi>Iſrael,</hi> ſo may I ſay of <hi>Lancaſhire, Happy art thou, oh</hi> LANCASHIRE,<note place="margin">Deu. 33.29</note> 
+               <hi>who is like unto thee, ô people, ſaved by the Lord, the ſhield of thy helpe, and who is the ſword of thy excellency? and thine enemies ſhall bee found lyars unto thee, and thou ſhalt tread upon their high places.</hi>
+            </p>
+            <p>We muſt all of us confeſſe with the Prophet <hi>David,</hi>
+               <note place="margin">Pſal. 40.5.</note> 
+               <hi>That many are the won<g ref="char:EOLhyphen"/>derfull workes which God hath done for us; and his thoughts which are to us wards, they cannot be reckoned up in order: If I would declare and ſpeak of them, they are more then can bee numbred.</hi> So that I
+<pb n="47" facs="tcp:121286:31"/>muſt conclude this Text at this time with <hi>Samuels</hi> counſell, 2 <hi>Sam.</hi> 12.14. <hi>Onely feare the Lord, and ſerve him in truth, with all your heart, for conſider how great things hee hath done for you:</hi> Which counſell (if it pleaſe God to give us grace to follow it) will bee a meanes to move God to lift up the hand of his Protection over us, and deſtruction upon our enemies: and bring them to ſhame that envy us, and cauſe the fire of his enemies to devoure them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
